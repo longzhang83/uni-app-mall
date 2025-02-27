@@ -126,7 +126,7 @@
     },
     "quickapp" : {},
     "mp-weixin" : {
-        "appid" : "wxa46b09d413fbcaff",
+        "appid" : "wx304ce92a8ab35c43",
         "setting" : {
             "urlCheck" : true,
             "es6" : false,
@@ -142,7 +142,7 @@
                 "desc" : "为你推荐附近的门店"
             }
         },
-		"slotMultipleInstance" : true
+        "slotMultipleInstance" : true
     },
     "mp-alipay" : {
         "usingComponents" : true,
@@ -186,5 +186,6 @@
             "https" : false
         }
     },
-    "_spaceID" : "80ab3332-a88f-4a44-8486-06fa7fc6392f"
+    "_spaceID" : "80ab3332-a88f-4a44-8486-06fa7fc6392f",
+    "locale" : "zh-Hans"
 }

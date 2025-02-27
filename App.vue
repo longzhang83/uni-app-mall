@@ -7,7 +7,7 @@
 			h5Domain: 'http://tstz.s2m.cc',
 			wxh5autologin: false, // 微信内浏览器打开是否启用微信自动登录
 			goLogin: false,
-			subDomain: 'tz', // jdjf0115
+			subDomain: 'wxapi', // jdjf0115
 			merchantId: 951, // 42151
 			version: '2.1.0',
 			sysconfigkeys: 'mallName,shopMod,share_profile,recharge_amount_min,open_growth,shopping_cart_vop_open,needIdCheck',
